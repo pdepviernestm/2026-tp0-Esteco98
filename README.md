@@ -1,4 +1,4 @@
-Presentacion Personal - Paradigmas de Programación
+Presentación Personal - Paradigmas de Programación
 
 Nombre: Esteban Ezequiel Pacheco 
 Legajo: 175.893-7
